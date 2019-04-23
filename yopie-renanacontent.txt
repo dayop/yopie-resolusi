@@ -1,7 +1,10 @@
 Rencana Content Yopie:
 - javascript
   -> ES6
+  -> view
 - php framework
+  -> laravel
 - fundamendal data structure
 - interview
 - vlog
+- pyton
