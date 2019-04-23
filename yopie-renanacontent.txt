@@ -4,6 +4,7 @@ Rencana Content Yopie:
   -> view
 - php framework
   -> laravel
+  -> CI
 - fundamendal data structure
 - interview
 - vlog
