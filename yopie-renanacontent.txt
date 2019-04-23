@@ -1,5 +1,6 @@
 Rencana Content Yopie:
 - javascript
+  -> ES6
 - php framework
 - interview
 - vlog
