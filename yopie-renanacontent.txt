@@ -1,7 +1,7 @@
 Rencana Content Yopie:
 - javascript
   -> ES6
+  -> Angular
 - php framework
-- fundamendal data structure
 - interview
 - vlog
